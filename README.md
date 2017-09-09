@@ -2,6 +2,4 @@ updated locally
 
 # my-websit
 
-cool website
-
-editing read me
+updates made on master on github before rebase
